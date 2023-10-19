@@ -1,5 +1,5 @@
 # Holi
-![trophy](https://github-profile-trophy.vercel.app/?username=maca-chan&theme=onestar&no-frame=true&column=3&row=2)
+![trophy](https://github-profile-trophy.vercel.app/?username=maca-chan&theme=synthwave&no-frame=true&column=3&row=2)
 
 
 <h3> Here's some fun facts about me: </h3>
