@@ -4,6 +4,9 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=maca-chan&theme=dracula&no-frame=true)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maca-chan&theme=synthwave&include_all_commits=true&count_private=true&)
+![Maca-chan GitHub stats](https://github-readme-stats.vercel.app/api?username=maca-chan&show_icons=true&theme=synthwave) 
+
 ### Lenguajes de programación y etiquetado que uso habitualmente
 &emsp;
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
