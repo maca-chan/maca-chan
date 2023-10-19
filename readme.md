@@ -2,9 +2,6 @@
 
 <img alt="maca-chan's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=maca-chan&theme=synthwave&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="maca-chan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maca-chan&langs_count=8&layout=compact&theme=synthwave&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maca-chan&theme=synthwave)
-![Maca-chan GitHub stats](https://github-readme-stats.vercel.app/api?username=maca-chan&show_icons=true&theme=synthwave) 
 ![trophy](https://github-profile-trophy.vercel.app/?username=maca-chan&theme=dracula&no-frame=true)
 
 ### Lenguajes de programación y etiquetado que uso habitualmente
