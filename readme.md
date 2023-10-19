@@ -3,7 +3,7 @@
 <img alt="maca-chan's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=maca-chan&theme=synthwave&show_icons=true&include_all_commits=true&count_private=true" width="49%" height="205px"/><img alt="maca-chan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=maca-chan&theme=synthwave" width="51%" height="205px"/>
 <img alt="maca-chan's trophy" src="https://github-profile-trophy.vercel.app/?username=maca-chan&theme=dracula&no-frame=true" width="100%"/>
 
-### Lenguajes de programación y etiquetado que uso habitualmente
+## Lenguajes de programación y etiquetado que uso habitualmente
 &emsp;
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -11,7 +11,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 
-### Otras herramientas que uso
+## Otras herramientas que uso
 &emsp;
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
