@@ -10,7 +10,8 @@
 - **Gran amante del SEO y de la programación. Especializándome en SEO programático**
 - **Graduada en Ingeniería Informática graduada en la Universidad de La Coruña**
 - **Otaku 🤓**
-- **Puedes encontrarme en [maca-chan.site](https://maca-chan.site)**
+- **Puedes encontrarme en [maca-chan.site](https://maca-chan.site) (web totalmente en construcció)**
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maca-chan&theme=synthwave)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats)
 
