@@ -14,6 +14,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maca-chan&theme=synthwave)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats)
 
 
-![Maca-chan GitHub stats](https://github-readme-stats.vercel.app/api?username=maca-chan&show_icons=true&theme=synthwave&column=2) 
-
+![Maca-chan GitHub stats](https://github-readme-stats.vercel.app/api?username=maca-chan&show_icons=true&theme=synthwave) 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maca-chan&theme=synthwave)
