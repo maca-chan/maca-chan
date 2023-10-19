@@ -1,6 +1,6 @@
 # Holi
 
-<img alt="maca-chan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=maca-chan&theme=synthwave" width="100%" height="300px"/><img alt="maca-chan's trophy" src="https://github-profile-trophy.vercel.app/?username=maca-chan&theme=dracula&no-frame=true&column=4&row=2" width="100%"  height="400px"/><img alt="maca-chan's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=maca-chan&theme=synthwave&show_icons=true&include_all_commits=true&count_private=true" width="100%" height="300px"/>
+<img alt="maca-chan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=maca-chan&theme=synthwave" width="100%"/><img alt="maca-chan's trophy" src="https://github-profile-trophy.vercel.app/?username=maca-chan&theme=dracula&no-frame=true&column=4&row=2" width="100%"/><img alt="maca-chan's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=maca-chan&theme=synthwave&show_icons=true&include_all_commits=true&count_private=true" width="100%"/>
 
 ## Lenguajes de programación y etiquetado que uso habitualmente
 &emsp;
