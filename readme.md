@@ -21,6 +21,6 @@
 ## Cosas sobre mí
 
 - **Gran amante del SEO y de la programación. Especializándome en SEO programático**
-- **Graduada en Ingeniería Informática graduada en la Universidad de La Coruña**
+- **Graduada en Ingeniería Informática en la Universidad de La Coruña**
 - **Otaku 🤓**
 - **Puedes encontrarme en [maca-chan.site](https://maca-chan.site) (web en construcción)**
