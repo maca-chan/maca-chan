@@ -1,5 +1,5 @@
 # Holi
-![trophy](https://github-profile-trophy.vercel.app/?username=maca-chan)
+![trophy](https://github-profile-trophy.vercel.app/?username=maca-chan&theme=onestar&no-frame=true&column=3&row=2)
 
 
 <h3> Here's some fun facts about me: </h3>
@@ -14,6 +14,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maca-chan&theme=synthwave)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats)
 
 
-![Maca-chan GitHub stats](https://github-readme-stats.vercel.app/api?username=maca-chan&show_icons=true&theme=synthwave) 
+![Maca-chan GitHub stats](https://github-readme-stats.vercel.app/api?username=maca-chan&show_icons=true&theme=synthwave&column=2) 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maca-chan&theme=synthwave)
