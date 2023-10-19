@@ -4,39 +4,42 @@
 
 # Conocimientos técnicos
 &emsp;
-![SEO Badge](https://img.shields.io/badge/-SEO-FAF040?style=flat&logoColor=white)
-![IA Development Badge](https://img.shields.io/badge/-Inteligencia%20Artificial-FAB040?style=flat&logoColor=white)
-![Automatización Badge](https://img.shields.io/badge/-Automatización-AABF40?style=flat&logoColor=white)
-![Automatización Badge](https://img.shields.io/badge/-Keyword%20Research-12b088?style=flat&logoColor=white)
-![SEO Badge](https://img.shields.io/badge/-Creación%20Directorios-e374a4?style=flat&logoColor=white)
+<img src="https://img.shields.io/badge/-SEO-FAF040?style=flat&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/-Inteligencia%20Artificial-FAB040?style=flat&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/-Automatización-AABF40?style=flat&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/-Keyword%20Research-12b088?style=flat&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/-Creación%20Directorios-e374a4?style=flat&logoColor=white" height="30"/>
 
 &emsp;
-![SEO Badge](https://img.shields.io/badge/-Monetización%20Adsense-b0487c?style=flat&logoColor=white)
-![SEO Badge](https://img.shields.io/badge/-Monetización%20Amazon%20Afiliados-52a5cc?style=flat&logoColor=white)
-![SEO Badge](https://img.shields.io/badge/-Monetización%20Ezoic-dea533?style=flat&logoColor=white)
+<img src="https://img.shields.io/badge/-Monetización%20Adsense-b0487c?style=flat&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/-Monetización%20Amazon%20Afiliados-52a5cc?style=flat&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/-Monetización%20Ezoic-dea533?style=flat&logoColor=white" height="30"/>
 
 
 # Lenguajes de programación y etiquetado que uso habitualmente
 &emsp;
-![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
+<img src="http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" height="30"/>
+<img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" height="30"/>
+<img src="https://img.shields.io/badge/-PHP-000?&logo=PHP" height="30"/>
+<img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff" height="30"/>
+<img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" height="30"/>
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap" height="30"/>
+<img src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown" height="30"/>
 
 # Librerías & Frameworks
 &emsp;
-<img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"> <img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"> <img alt="Django" src="https://img.shields.io/badge/Django%20-%9757e6.svg?logo=Django&logoColor=white"> <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white">
+<img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white" height="30"/>
+<img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white" height="30"/>
+<img alt="Django" src="https://img.shields.io/badge/Django%20-%9757e6.svg?logo=Django&logoColor=white" height="30"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white" height="30"/>
 
 
 # Otras herramientas que uso
 &emsp;
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="30"/>
+<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff" height="30"/>
+<img src="https://img.shields.io/badge/-Docker-000?&logo=Docker" height="30"/>
+<img src="https://img.shields.io/badge/-SQLite-000?&logo=SQLite" height="30"/>
 
 # Cosas sobre mí
 
