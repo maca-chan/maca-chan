@@ -5,15 +5,13 @@
 
 
 
-<h3> Here's some fun facts about me: </h3>
+## Cosas sobre mí
 
-- **I am a ***HUGE Harry Potter fan***⚡🧙🏻‍♂️**
--  **I'm a hopeful web and app developer 👩🏻‍💻**
--  **I am a true science lover 🔬**
--  **Finally, I'm a football-watching frenzy ⚽!**
--  **I'm the founder of [the CodingContributorsLair Organization](https://github.com/CodingContributorsLair/)**
+- **Gran amante del SEO y de la programación. Especializándome en SEO programático**
+- **Graduada en Ingeniería Informática graduada en la Universidad de La Coruña**
+- **Otaku 🤓**
+- **Puedes encontrarme en [maca-chan.site](https://maca-chan.site)**
 
-### Here's my github README stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maca-chan&theme=synthwave)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats)
 
 
