@@ -8,11 +8,12 @@
 ![IA Development Badge](https://img.shields.io/badge/-Inteligencia%20Artificial-FAB040?style=flat&logoColor=white)
 ![Automatización Badge](https://img.shields.io/badge/-Automatización-AABF40?style=flat&logoColor=white)
 ![Automatización Badge](https://img.shields.io/badge/-Keyword%20Research-12b088?style=flat&logoColor=white)
+![SEO Badge](https://img.shields.io/badge/-Creación%20Directorios-e374a4?style=flat&logoColor=white)
 
+&emsp;
 ![SEO Badge](https://img.shields.io/badge/-Monetización%20Adsense-b0487c?style=flat&logoColor=white)
 ![SEO Badge](https://img.shields.io/badge/-Monetización%20Amazon%20Afiliados-52a5cc?style=flat&logoColor=white)
 ![SEO Badge](https://img.shields.io/badge/-Monetización%20Ezoic-dea533?style=flat&logoColor=white)
-![SEO Badge](https://img.shields.io/badge/-Creación%20Directorios-e374a4?style=flat&logoColor=white)
 
 
 ## Lenguajes de programación y etiquetado que uso habitualmente
