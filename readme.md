@@ -12,8 +12,9 @@
 ### Here's my github README stats:
 
 ![Maca-chan GitHub stats](https://github-readme-stats.vercel.app/api?username=maca-chan&show_icons=true&theme=radical) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maca-chan&theme=radical)]
-[![trophy](https://github-profile-trophy.vercel.app/?username=maca-chan)]
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maca-chan&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=maca-chan)
 
 
 ### Yo! Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
