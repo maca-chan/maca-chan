@@ -1,4 +1,5 @@
 # Holi! 
+![trophy](https://github-profile-trophy.vercel.app/?username=maca-chan)
 
 
 <h3> Here's some fun facts about me: </h3>
@@ -14,5 +15,4 @@
 ![Maca-chan GitHub stats](https://github-readme-stats.vercel.app/api?username=maca-chan&show_icons=true&theme=radical) 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maca-chan&theme=radical)
-![trophy](https://github-profile-trophy.vercel.app/?username=maca-chan)
 
