@@ -17,3 +17,9 @@
 ![Maca-chan GitHub stats](https://github-readme-stats.vercel.app/api?username=maca-chan&show_icons=true&theme=synthwave) 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maca-chan&theme=synthwave)
+
+
+
+![maca-chan github stats](https://github-readme-stats.vercel.app/api?username=maca-chan&show_icons=true&theme=synthwave) 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maca-chan&theme=tokyonight" alt="mystreak"/>
+![maca-chan Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maca-chan&theme=synthwave)
