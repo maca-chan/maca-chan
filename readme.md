@@ -40,11 +40,13 @@
 
 # Librerías & Frameworks
 &emsp;
-<img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white" height="30"/>
+<img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23023243.svg?logo=numpy&logoColor=white" height="30"/>
 <img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white" height="30"/>
-<img alt="Django" src="https://img.shields.io/badge/Django%20-%9757e6.svg?logo=Django&logoColor=white" height="30"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white" height="30"/>
-
+<img alt="Django" src="https://img.shields.io/badge/Django%20-%23160411.svg?logo=Django&logoColor=white" height="30"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23157458.svg?logo=Bootstrap&logoColor=white" height="30"/>
+<img alt="JSON" src="https://img.shields.io/badge/JSON%20-%19101010.svg?logo=json&logoColor=white" height="30"/>
+<img alt="Openai" src="https://img.shields.io/badge/Openai%20-%23013243.svg?logo=openai&logoColor=white" height="30"/>
+<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV%20-%23160411.svg?logo=opencv&logoColor=white" height="30"/>
 
 # Otras herramientas que uso
 &emsp;
