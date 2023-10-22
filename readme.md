@@ -7,12 +7,22 @@
 <img src="https://img.shields.io/badge/-Inteligencia%20Artificial-FAB040?style=flat&logoColor=white" height="30"/>
 <img src="https://img.shields.io/badge/-Automatización-AABF40?style=flat&logoColor=white" height="30"/>
 <img src="https://img.shields.io/badge/-Keyword%20Research-12b088?style=flat&logoColor=white" height="30"/>
+
+&emsp;
 <img src="https://img.shields.io/badge/-Creación%20Directorios-e374a4?style=flat&logoColor=white" height="30"/>
 <img src="https://img.shields.io/badge/Programación-e314a4?style=flat&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Experta%20en%20Python-e3e4a4?style=flat&logoColor=white" height="30"/>
+
+&emsp;
+<img src="https://img.shields.io/badge/Machine%20Learning-FEAFEA?style=flat&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/IA%20en%20Imagen-BABADA?style=flat&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Detección%20y%20Reconocimiento%20de%20Patrones-ABADAF?style=flat&logoColor=white" height="30"/>
 
 &emsp;
 <img src="https://img.shields.io/badge/-Monetización%20Adsense-b0487c?style=flat&logoColor=white" height="30"/>
 <img src="https://img.shields.io/badge/-Monetización%20Amazon%20Afiliados-52a5cc?style=flat&logoColor=white" height="30"/>
+
+&emsp;
 <img src="https://img.shields.io/badge/-Monetización%20Ezoic-dea533?style=flat&logoColor=white" height="30"/>
 <img src="https://img.shields.io/badge/-Monetización%20Otros%20Afiliados-52a55c?style=flat&logoColor=white" height="30"/>
 
