@@ -8,6 +8,7 @@
 <img src="https://img.shields.io/badge/-Automatización-AABF40?style=flat&logoColor=white" height="30"/>
 <img src="https://img.shields.io/badge/-Keyword%20Research-12b088?style=flat&logoColor=white" height="30"/>
 <img src="https://img.shields.io/badge/-Creación%20Directorios-e374a4?style=flat&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Programación-e314a4?style=flat&logoColor=white" height="30"/>
 
 &emsp;
 <img src="https://img.shields.io/badge/-Monetización%20Adsense-b0487c?style=flat&logoColor=white" height="30"/>
