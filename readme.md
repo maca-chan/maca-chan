@@ -14,6 +14,8 @@
 <img src="https://img.shields.io/badge/-Monetización%20Adsense-b0487c?style=flat&logoColor=white" height="30"/>
 <img src="https://img.shields.io/badge/-Monetización%20Amazon%20Afiliados-52a5cc?style=flat&logoColor=white" height="30"/>
 <img src="https://img.shields.io/badge/-Monetización%20Ezoic-dea533?style=flat&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/-Monetización%20Otros%20Afiliados-52a55c?style=flat&logoColor=white" height="30"/>
+
 
 
 # Lenguajes de programación y etiquetado que uso habitualmente
