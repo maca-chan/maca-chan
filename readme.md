@@ -31,8 +31,9 @@
 # Lenguajes de programación y etiquetado
 &emsp;
 <img src="http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" height="30"/>
-<img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" height="30"/>
 <img src="https://img.shields.io/badge/-PHP-000?&logo=PHP" height="30"/>
+<img src="https://img.shields.io/badge/-C-%23E44D27?&logo=C" height="30"/>
+<img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" height="30"/>
 <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff" height="30"/>
 <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" height="30"/>
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap" height="30"/>
