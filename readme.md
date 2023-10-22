@@ -28,7 +28,7 @@
 
 
 
-# Lenguajes de programación y etiquetado que uso habitualmente
+# Lenguajes de programación y etiquetado
 &emsp;
 <img src="http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" height="30"/>
 <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" height="30"/>
