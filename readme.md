@@ -42,6 +42,7 @@
 # Librerías & Frameworks
 &emsp;
 <img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23023243.svg?logo=numpy&logoColor=white" height="30"/>
+<img alt="skimage" src="https://img.shields.io/badge/Skimage%20-%23D50458.svg?logo=skimage&logoColor=white" height="30"/>
 <img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white" height="30"/>
 <img alt="Django" src="https://img.shields.io/badge/Django%20-%23160411.svg?logo=Django&logoColor=white" height="30"/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23157458.svg?logo=Bootstrap&logoColor=white" height="30"/>
