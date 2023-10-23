@@ -64,3 +64,9 @@
 - **Otaku 🤓**
 - **Puedes encontrarme en [maca-chan.site](https://maca-chan.site) (web en construcción)**
 
+<!--
+# Repositorios God-Tier
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maca-chan&repo=maca-chan)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/maca-chan/maca-chan)https://github.com/maca-chan/maca-chan)
+-->
+
+
