@@ -65,7 +65,7 @@
 - **Puedes encontrarme en [maca-chan.site](https://maca-chan.site) (web en construcción) y en [twitter/X](https://twitter.com/Ramnacea)**
 
 # Repositorios God-Tier
-![Roadmap Card](https://github-readme-stats.vercel.app/api/pin/?username=maca-chan&repo=ROADMAP-pSEO)
+[![Roadmap Card](https://github-readme-stats.vercel.app/api/pin/?username=maca-chan&repo=ROADMAP-pSEO)](https://github.com/maca-chan/ROADMAP-pSEO)
 
 
 
