@@ -1,6 +1,10 @@
 # Welcome 2 Maca-chan's Github Page 👋🏻
 <img alt="maca-chan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=maca-chan&theme=synthwave" width="90%"/><img alt="maca-chan's trophy" src="https://github-profile-trophy.vercel.app/?username=maca-chan&theme=dracula&no-frame=true&column=4&row=2" width="90%"/>
 
+# Repositorios God-Tier
+[![Roadmap Card](https://github-readme-stats.vercel.app/api/pin/?username=maca-chan&repo=ROADMAP-pSEO)](https://github.com/maca-chan/ROADMAP-pSEO)
+
+
 # Conocimientos técnicos
 &emsp;
 <img src="https://img.shields.io/badge/-SEO-FAF040?style=flat&logoColor=white" height="30"/>
@@ -69,10 +73,3 @@
 - [2019] Máster Universitario de Bioinformática para Ciencias de la Salud
 - [2018] Empecé un doctorado
 - [2021] Conocí el SEO
-
-
-# Repositorios God-Tier
-[![Roadmap Card](https://github-readme-stats.vercel.app/api/pin/?username=maca-chan&repo=ROADMAP-pSEO)](https://github.com/maca-chan/ROADMAP-pSEO)
-
-
-
