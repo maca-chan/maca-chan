@@ -1,9 +1,5 @@
 # Welcome 2 Maca-chan's Github Page 👋🏻
 
-# Repositorios God-Tier
-[![Roadmap Card](https://github-readme-stats.vercel.app/api/pin/?username=maca-chan&repo=ROADMAP-pSEO)](https://github.com/maca-chan/ROADMAP-pSEO)
-
-
 # Conocimientos técnicos
 &emsp;
 <img src="https://img.shields.io/badge/-SEO-FAF040?style=flat&logoColor=white" height="30"/>
@@ -28,8 +24,6 @@
 &emsp;
 <img src="https://img.shields.io/badge/-Monetización%20Ezoic-dea533?style=flat&logoColor=white" height="30"/>
 <img src="https://img.shields.io/badge/-Monetización%20Otros%20Afiliados-52a55c?style=flat&logoColor=white" height="30"/>
-
-
 
 # Lenguajes de programación y etiquetado
 &emsp;
@@ -65,6 +59,9 @@
 - **Gran amante del SEO y de la programación. Especializándome en SEO programático**
 - **Graduada en Ingeniería Informática en la Universidad de La Coruña**
 - **Otaku 🤓**
+
+# Repositorios God-Tier
+[![Roadmap Card](https://github-readme-stats.vercel.app/api/pin/?username=maca-chan&repo=ROADMAP-pSEO)](https://github.com/maca-chan/ROADMAP-pSEO)
 - **Puedes encontrarme en [maca-chan.site](https://maca-chan.site) (web en construcción) y en [twitter/X](https://twitter.com/Ramnacea)**
   
 # CV para curiosos 
