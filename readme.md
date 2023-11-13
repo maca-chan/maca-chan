@@ -1,4 +1,5 @@
 # Welcome 2 Maca-chan's Github Page 👋🏻
+<img src="https://github.com/maca-chan/maca-chan/blob/main/src/Memoji%20Maca-chan%2020.png" height="150"/> HI!
 
 # Conocimientos técnicos
 &emsp;
