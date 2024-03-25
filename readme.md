@@ -53,4 +53,4 @@
 - [2017] Graduada en Ingeniería Informática
 - [2019] Máster Universitario de Bioinformática para Ciencias de la Salud
 - [2018] Empecé un doctorado
-- [2021] Conocí el SEO
+- [2021-Actualidad] Conocí el SEO
