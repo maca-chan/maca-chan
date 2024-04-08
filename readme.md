@@ -2,7 +2,6 @@
 <img src="https://github.com/maca-chan/maca-chan/blob/main/src/Memoji%20Maca-chan%2020.png" height="150"/> HI!
 
 # Conocimientos técnicos
-&emsp;
 - Programación
 - Experta en Python (+10 años de experiencia)
 - SEO
@@ -11,7 +10,6 @@
 - Creación directorios, calculadoras, plugins wp...
   
 # Lenguajes de programación y etiquetado
-&emsp;
 - Python
 - PHP
 - C
@@ -22,7 +20,6 @@
 - Markdown
 
 # Librerías & Frameworks
-&emsp;
 - Numpy
 - Skimage
 - Pandas
@@ -34,7 +31,6 @@
 - PyTorch
 
 # Otras herramientas que uso
-&emsp;
 - Github
 - Visual Studio Code
 - Docker
