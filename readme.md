@@ -4,7 +4,7 @@
 # Conocimientos técnicos
 - Programación
 - Experta en Python (+10 años de experiencia)
-- SEO
+- SEO (Desde 2021)
 - Automatizaciones
 - Keyword Research
 - Creación directorios, calculadoras, plugins wp...
