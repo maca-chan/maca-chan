@@ -13,7 +13,7 @@
 - Python
 - PHP
 - C
-- JavaCript
+- JavaScript
 - HTML5
 - CSS
 - Bootstrap
