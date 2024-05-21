@@ -7,7 +7,7 @@
 - SEO (Desde 2021)
 - Automatizaciones
 - Keyword Research
-- Creación directorios, calculadoras, plugins wp...
+- Creación directorios, calculadoras, plugins de Wordpress...
   
 # Lenguajes de programación y etiquetado
 - Python
