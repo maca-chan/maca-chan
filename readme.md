@@ -40,7 +40,7 @@
 
 - **Gran amante del SEO y de la programación. Especializándome en SEO programático**
 - **Graduada en Ingeniería Informática en la Universidad de La Coruña**
-- **Otaku 🤓**
+- **50% SEO lover 50% Otaku 🤓**
 
 - **Puedes encontrarme en [maca-chan.site](https://maca-chan.site) (web en construcción) y en [twitter/X](https://twitter.com/Ramnacea)**
   
