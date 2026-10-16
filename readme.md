@@ -8,6 +8,7 @@
 - Automatizaciones
 - Keyword Research
 - Creación directorios, calculadoras, plugins de Wordpress...
+- Youtube
   
 # Lenguajes de programación y etiquetado
 - Python
@@ -19,28 +20,6 @@
 - Bootstrap
 - Markdown
 
-# Librerías & Frameworks
-- Numpy
-- Skimage
-- Pandas
-- Django
-- Bootstrap
-- JSON
-- OpenAI
-- OpenCV
-- PyTorch
-
-# Otras herramientas que uso
-- Github
-- Visual Studio Code
-- Docker
-- SQLite
-
-# Cosas sobre mí
-
-- **Gran amante del SEO y de la programación. Especializándome en SEO programático**
-- **Graduada en Ingeniería Informática en la Universidad de La Coruña**
-- **50% SEO lover 50% Otaku 🤓**
 
 - **Puedes encontrarme en [maca-chan.site](https://maca-chan.site) (web en construcción) y en [twitter/X](https://twitter.com/Ramnacea)**
   
